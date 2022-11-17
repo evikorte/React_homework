@@ -8,7 +8,7 @@ export default function Footer() {
       <div id="code-reference">
         Coded by
         <a
-          href="https://github.com/evikorte/Vanilla-Weather-App-Project"
+          href="https://github.com/evikorte/React_homework"
           target="_blank"
           rel="noreferrer"
           id="git-hub-link"
