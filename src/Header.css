@@ -1,0 +1,33 @@
+.container {
+  margin: 30px auto;
+}
+
+.upperrow {
+  padding: 10px 20px;
+}
+#metrics {
+  font-size: 15px;
+  position: relative;
+  top: -10px;
+  left: +35px;
+}
+
+#present-city,
+#description {
+  font-size: 20px;
+}
+#present-degree {
+  font-size: 30px;
+}
+#metrics {
+  font-size: 15px;
+  position: relative;
+  top: -10px;
+  left: +35px;
+}
+.cityDetails {
+  text-align: left;
+}
+.extraInfo {
+  text-align: right;
+}

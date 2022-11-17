@@ -1,0 +1,25 @@
+body {
+  margin: 50px auto;
+}
+
+form {
+  margin: 0px 20px;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.card {
+  background-color: lightblue;
+  font-family: "Pacifico", cursive;
+  text-shadow: 2px 2px black;
+  color: white;
+  font-weight: bold;
+  padding: 20px;
+  background-size: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  border-radius: 5px;
+}
